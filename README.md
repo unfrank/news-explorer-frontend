@@ -44,7 +44,7 @@ The app allows users to search for news articles, save them to a personal profil
 ## Deployment
 
 The frontend is deployed to GitHub Pages:  
-**https://unfrank.github.io/news-explorer-frontend/**
+**https://unfrank.github.io/news-explorer**
 
 The backend API communicates with:  
 **https://news-explorer-api-n5y3.onrender.com**
